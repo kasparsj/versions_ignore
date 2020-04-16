@@ -1,0 +1,15 @@
+{
+    "name": "Versions Ignore",
+    "description": "Exclude files and folders from versioning",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Kaspars Jaudzems"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}

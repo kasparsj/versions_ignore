@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>versions_ignore</id>
+    <name>Versions Ignore</name>
+    <summary>Exclude files and folders from versioning</summary>
+    <description><![CDATA[Exclude files and folders from versioning]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="kasparsj@gmail.com" homepage="https://kaspars.cc">Kaspars Jaudzems</author>
+    <namespace>Versions_Ignore</namespace>
+    <types>
+        <filesystem/>
+        <dav/>
+    </types>
+    <category>files</category>
+    <bugs>https://github.com/kasparsj/nextcloud_versions_ignore/issues</bugs>
+    <dependencies>
+        <nextcloud min-version="18" max-version="18"/>
+    </dependencies>
+</info>

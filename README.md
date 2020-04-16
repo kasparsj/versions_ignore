@@ -2,7 +2,7 @@
 
 This app let's you exclude files or folders from versioning. 
 
-It works similar to **gitignore** , using a `.versions_ignore` file you can specify which files or folders should not be versioned.
+It works similar to **.gitignore** , using a `.versions_ignore` file you can specify which files or folders should not be versioned.
 
 Already created file versions are not affected.
 
